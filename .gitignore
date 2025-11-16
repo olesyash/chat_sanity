@@ -4,6 +4,8 @@ data
 __pycache__/
 *.py[codz]
 *$py.class
+compact-cell-478411-j1-7ff635098778.json
+output/*
 
 # C extensions
 *.so
